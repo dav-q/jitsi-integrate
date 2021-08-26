@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+.fas {
+    padding-right: 10px;
+    padding-left: 10px;
+    cursor: pointer;
+}
+
+.item-center {
+    text-align: center;
+}
+
+.item-left {
+    text-align: left;
+}
+
+.grey-color {
+    color: grey;
+}
+
+.red-color {
+    color: red;
+}
+
+.nav-bar {
+    background-color: #fc7d01;
+    height: 60px;
+    display: flex;
+}
+
+.heading {
+    color: #fff;
+    padding-left: 10px;
+    font-weight: 600;
+}
+
+.hidden{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+.container-jitsi{
+    max-width: 400px;
+    max-height: 400px;
+    position: absolute;
+    margin-left: 75%;
+    margin-top: 10%;
+}
+.content-jitsi{
+    position: absolute;
+    max-width: 70%;
+}
